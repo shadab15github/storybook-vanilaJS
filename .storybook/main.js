@@ -1,6 +1,6 @@
 
 
-/** @type { import('@storybook/react-vite').StorybookConfig } */
+/** @type { import('@storybook/html-vite').StorybookConfig } */
 const config = {
   "stories": [
     "../src/**/*.mdx",
@@ -10,9 +10,8 @@ const config = {
     "@chromatic-com/storybook",
     "@storybook/addon-vitest",
     "@storybook/addon-a11y",
-    "@storybook/addon-docs",
-    "@storybook/addon-onboarding"
+    "@storybook/addon-docs"
   ],
-  "framework": "@storybook/react-vite"
+  "framework": "@storybook/html-vite"
 };
 export default config;

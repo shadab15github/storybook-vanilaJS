@@ -1,10 +1,10 @@
-<h1>React Latest (Vite | JavaScript)</h1>
+<h1>HTML Latest (Vite | JavaScript)</h1>
 
 <p>
   This is project generated to serve as a reproduction starter for Storybook.
 </p>
 
-<a  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/react-vite/default-js/after-storybook?preset=node=">
+<a  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/html-vite/default-js/after-storybook?preset=node=">
   View it in Stackblitz
 </a>
 
