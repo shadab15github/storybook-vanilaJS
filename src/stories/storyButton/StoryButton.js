@@ -1,4 +1,4 @@
-import "./button.css";
+import "./storyButton.css";
 
 export const createStoryButton = ({
   primary = false,
